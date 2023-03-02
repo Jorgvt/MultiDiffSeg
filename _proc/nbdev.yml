@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "MultiDiffSeg"
+  site-url: "https://Jorgvt.github.io/MultiDiffSeg"
+  description: "Using MultiDiffussion to generate images from segmentation masks."
+  repo-branch: main
+  repo-url: "https://github.com/Jorgvt/MultiDiffSeg"
